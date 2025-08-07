@@ -1,5 +1,3 @@
-# Asg-4-Pandas
-
 **Purpose:**
 This project analyzes two datasets: Petal_Data and Sepal_Data. The code merges these datasets, converts string columns to numeric values, and calculates various statistical measures such as correlation, average, median, and standard deviation.
 
